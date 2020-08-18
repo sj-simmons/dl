@@ -11,6 +11,6 @@
 <url> <loc>https://sj-simmons.github.io/dl/dl/setup/install_mac/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-simmons.github.io/dl/dl/setup/install_packages/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-simmons.github.io/dl/dl/setup/install_ubuntu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sj-simmons.github.io/dl/dl/setup/overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-simmons.github.io/dl/dl/setup/install_wsl/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sj-simmons.github.io/dl/dl/setup/overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
